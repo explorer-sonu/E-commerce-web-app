@@ -10,7 +10,7 @@ import p8_img from "./product_28.png";
 let new_collections = [
   {
     id: 12,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Girls Solid Pure Cotton T Shirt  (Dark Blue, Pack of 1)",
     image: p1_img,
     new_price: 50.0,
     old_price: 80.5,
@@ -24,14 +24,14 @@ let new_collections = [
   },
   {
     id: 14,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Men Black White Solid Zippered Full-Zip Slim Fit Bomber Jacket",
     image: p3_img,
     new_price: 60.0,
     old_price: 100.5,
   },
   {
     id: 8,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Top",
     image: p4_img,
     new_price: 100.0,
     old_price: 150.0,
@@ -45,21 +45,21 @@ let new_collections = [
   },
   {
     id: 2,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Casual Regular Sleeves Solid Women Pink Top Girls",
     image: p6_img,
     new_price: 85.0,
     old_price: 120.5,
   },
   {
     id: 17,
-    name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+    name: "Men Blue Solid Zippered Slim Fit Men Washed Jacket Jacket",
     image: p7_img,
     new_price: 60.0,
     old_price: 100.5,
   },
   {
     id: 28,
-    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    name: "Boys Green Colourblocked Hooded Sweatshirt",
     image: p8_img,
     new_price: 100.0,
     old_price: 150.0,
